@@ -4,20 +4,28 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+
+      <header>
+        {/* tabs in between */}
+        <h2>Programming Portfolio          Dec 2021 - Present</h2>
+        <h4>tadahiroueta.com</h4>
       </header>
+
+      <div className="Sites">
+        <a href='https://digit.tadahiroueta.com'>
+          <h3>Digit-Recognition Neural Network</h3>
+        </a>
+        <a href='https://pheromones.tadahiroueta.com'>
+          <h3>Ant Colony Heuristic - Salesperson Problem</h3>
+        </a>
+        <a href='https://playlist.tadahiroueta.com'>
+          <h3>Spotify Client Search Algorithm</h3>
+        </a>
+        <a href='https://mmvacuo.tadahiroueta.com/'>
+          <h3>Commercial Website for scientific equipment supplier</h3>
+        </a>
+      </div>
+
     </div>
   );
 }
