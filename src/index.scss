@@ -6,13 +6,10 @@ a {
 }
 
 h2 {
-
-  span {
-    font-size: 1.9rem;
-  }
-
   font-size: 1.75rem;
   font-weight: 500;
+
+  span { font-size: 1.9rem; }
 }
 
 h4 {
@@ -27,6 +24,8 @@ body {
   .App {
     margin: 10vh 25%;
     width: 50%;
+
+    header h4 { margin: 1vh 0 5vh }
 
     ul { 
       li {
