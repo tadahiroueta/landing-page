@@ -10,8 +10,7 @@ export default function App() {
       <ul>
         <li>
           <a href='https://bridgeamerica.org'>
-            <h4>Bridge America - High School Guide for Foreign Students</h4>
-            <h5>(under development)</h5>
+            <h4>High School Guide for Foreign Students (under development)</h4>
           </a>
         </li>
         <li>
