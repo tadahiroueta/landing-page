@@ -9,6 +9,11 @@ export default function App() {
 
       <ul>
         <li>
+          <a href='https://bridgeamerica.org'>
+            <h4>Bridge America - High School Guide for Foreign Students (under development)</h4>
+          </a>
+        </li>
+        <li>
           <a href='https://digit.tadahiroueta.com'>
             <h4>Digit-Recognition Neural Network</h4>
           </a>
