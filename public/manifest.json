@@ -1,0 +1,14 @@
+{
+    "short_name": "Programming Portfolio",
+    "name": "Programming Portfolio",
+    "icons": [
+      {
+        "src": "icon.png",
+        "sizes": "129x129",
+        "type": "image/png"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone"
+}
+  
