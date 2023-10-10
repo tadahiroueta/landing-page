@@ -38,7 +38,7 @@ export default function App() {
         <div className="space-y-8 text-gray-600 md:space-y-12">
           <a href="https://tadahiroueta.com/" className="text-xl">tadahiroueta.com</a>
           <div className="ml-5 space-y-4 text-base list-disc md:ml-12 md:text-xl">
-            <Link to="https://pheromones.tadahiroueta.com" topics={ ["Nature-Inspired", "Real Time", "React JS"] }>
+            <Link to="https://pheromones.tadahiroueta.com" topics={ ["Nature-Inspired", "Real Time", "React JS", "SASS"] }>
               Ant Colony Heuristic - Salesperson Problem
             </Link>
             <Link to="https://bridgeamerica.org/" topics={ ["MongoDB", "CrowdSourced", "React JS", "Tailwind CSS"] }>
