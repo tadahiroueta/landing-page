@@ -38,7 +38,7 @@ export default function App() {
         <div className="space-y-8 text-gray-600 md:space-y-12">
           <a href="https://tadahiroueta.com/" className="text-xl">tadahiroueta.com</a>
           <div className="ml-5 space-y-4 text-base list-disc md:ml-12 md:text-xl">
-            <Link to="https://pheromones.tadahiroueta.com" topics={ ["Nature-Inspired", "Real Time", "React JS", "SASS"] }>
+            <Link to="https://pheromones.tadahiroueta.com" topics={ ["Nature-Inspired", "Graph Theory", "Real Time", "React JS", "SASS"] }>
               Ant Colony Heuristic - Salesperson Problem
             </Link>
             <Link to="https://bridgeamerica.org/" topics={ ["MongoDB", "CrowdSourced", "React JS", "Tailwind CSS"] }>
@@ -47,10 +47,10 @@ export default function App() {
             <Link to="https://digit.tadahiroueta.com" topics={ ["Nature-Inspired", "AI", "Calculus", "Real Time", "Freehand Input", "React JS"] }>
               Digit-Recognition Neural Network
             </Link>
-            <Link to="https://spotifier.tadahiroueta.com" topics={ ["React JS", "Spotify API", "Tailwind CSS"] }>
+            <Link to="https://spotifier.tadahiroueta.com" topics={ ["Spotify API", "React JS", "Tailwind CSS"] }>
               Spotify Client Search Algorithm
             </Link>
-            <Link to="https://mmvacuo.tadahiroueta.com" topics={ ["React JS", "Commercial", "Portuguese"] }>
+            <Link to="https://mmvacuo.tadahiroueta.com" topics={ ["Commercial", "Portuguese", "React JS"] }>
               Commercial Website for scientific equipment supplier
             </Link>
           </div>
