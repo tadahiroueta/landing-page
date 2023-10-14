@@ -42,7 +42,7 @@ export default function App() {
               Ant Colony Heuristic - Salesperson Problem
             </Link>
             <Link to="https://bridgeamerica.org/" topics={ ["MongoDB", "CrowdSourced", "React JS", "Tailwind CSS"] }>
-              High School Guide for Foreign Students <span className="text-red-400"> (under development*)</span>
+              Bridge America - High School Guide for Foreign Students
             </Link>
             <Link to="https://digit.tadahiroueta.com" topics={ ["Nature-Inspired", "AI", "Calculus", "Real Time", "Freehand Input", "React JS"] }>
               Digit-Recognition Neural Network
