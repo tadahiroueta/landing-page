@@ -50,9 +50,6 @@ export default function App() {
             <Link to="https://spotifier.tadahiroueta.com" topics={ ["Spotify API", "React JS", "Tailwind CSS"] }>
               Spotify Client Search Algorithm
             </Link>
-            <Link to="https://mmvacuo.tadahiroueta.com" topics={ ["Commercial", "Portuguese", "React JS"] }>
-              Commercial Website for scientific equipment supplier
-            </Link>
           </div>
         </div>
       </div>
